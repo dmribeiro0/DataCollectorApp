@@ -1,0 +1,14 @@
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\bin\Debug\net9.0\DataCollectorApp.exe
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\bin\Debug\net9.0\DataCollectorApp.deps.json
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\bin\Debug\net9.0\DataCollectorApp.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\bin\Debug\net9.0\DataCollectorApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\bin\Debug\net9.0\DataCollectorApp.pdb
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\refint\DataCollectorApp.dll
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.pdb
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\DataCollectorApp.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Documentos\Unifesp\ProjOO\DataCollectorApp\obj\Debug\net9.0\ref\DataCollectorApp.dll
