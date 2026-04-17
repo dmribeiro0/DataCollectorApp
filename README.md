@@ -1,0 +1,5 @@
+> Obs: Esse projeto é um exemplo de implementação do padrão Observer em um sistema de coleta de dados via sensores. Foi desenvolvido durante a disciplina de Projeto Orientado a Objeto na Universidade Federal de São Paulo (UNIFESP - SJC).
+
+# Padrão Observer em um Sistema de Coleta de Dados
+
+Organizações brasileiras, como universidades e instituições de pesquisa, precisam acompanhar em tempo real os dados coletados por sensores instalados em rios da Amazônia. Esses sensores monitoram variáveis como temperatura, pH e umidade do ar, gerando informações contínuas que devem ser distribuídas automaticamente para diferentes interessados sempre que houver atualização. Para atender a essa necessidade, este projeto implementa um sistema baseado no padrão Observer, permitindo que múltiplos observadores recebam notificações de forma desacoplada e eficiente sempre que os dados dos sensores forem alterados.
